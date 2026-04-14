@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Seattle, Washington, US",
+  "export_job_id": "b0005396-996a-4074-bd4f-67f0d67e53be",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 433358,
+  "location_name": "Seattle",
+  "location_type": "city",
+  "repo_name": "the-hhi-monopoly-index-for-seattle-washington-us-sample-433358",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/433358/beamstation_433358_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 5.26,
+  "sample_records": 1,
+  "sample_sha256": "d480ffcf3bf3045fd4e38560aff5db63e4b88ac185ebdf8b5ac96c7d0486feb7",
+  "sample_size_bytes": 21332,
+  "total_records": 19,
+  "updated_at": "2026-04-07T15:41:48.753025+00:00"
+}
