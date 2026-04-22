@@ -9,9 +9,9 @@
 | Dataset ID | `433358` |
 | Location | Seattle |
 | Category | Restaurants |
-| Full dataset size | 13 records |
-| Free sample size | 1 records (7.69%) |
-| Last export | 2026-04-14T22:06:09.712743+00:00 |
+| Full dataset size | 12 records |
+| Free sample size | 1 records (8.33%) |
+| Last export | 2026-04-22T00:57:45.939816+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-seattle-washington-us-sample-433358/releases/download/sample-latest/beamstation_433358_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
